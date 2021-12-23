@@ -1,17 +1,19 @@
 # Hi there! 👋
-I'm Larra and I'm trying not to be too overwhelmed with these new tech.
+I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
-👩🏻‍💻 <b>I'm currently learning [VueJs][vue].</b>
+👩🏻‍💻 <b>Currently learning [VueJS][vue].</b>
 
 ## 🎀 About Me
 💗 Lazy wife  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
 🏠 Proudly from 🇵🇭 but now living in 🇺🇸  
+👑 Self-proclaimed web developer
+🎤 Professional bathroom singer
 
 ## 💖 Personal Projects
 - [ ] 🖥️ An NGO web app for binational couples and families
 - [ ] 🆕 [Modernized GovPH apps][govph]
-- [ ] 📄 K1 Filing Guide
+- [ ] 📄 K1 Visa Filing Guide
 
 ## 💻 Tech
 ![HTML5](https://img.shields.io/badge/%20-html5-orange?logo=css3&style=for-the-badge&color=E34F26&logoColor=ffffff) 
@@ -29,6 +31,8 @@ I'm Larra and I'm trying not to be too overwhelmed with these new tech.
 ![npm](https://img.shields.io/badge/%20-npm-red?logo=npm&style=for-the-badge&color=CB3837&logoColor=ffffff) 
 ![Vercel](https://img.shields.io/badge/%20-vercel-green?logo=vercel&style=for-the-badge&color=000000&logoColor=ffffff) 
 ![Netlify](https://img.shields.io/badge/%20-netlify-green?logo=netlify&style=for-the-badge&color=00C7B7&logoColor=ffffff) 
+
+Made with ❤️
 
 [vue]: https://v3.vuejs.org/
 [govph]: https://github.com/larrasu/GovPH-Modernized/
