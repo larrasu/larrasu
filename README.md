@@ -7,7 +7,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 💗 Lazy wife  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
 🏠 Proudly from 🇵🇭 but now living in 🇺🇸  
-👑 Self-proclaimed web developer
+👑 Self-proclaimed web developer  
 🎤 Professional bathroom singer
 
 ## 💖 Personal Projects
