@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 I'm Larra and I'm trying not to be too overwhelmed with these new tech.
 
 👩🏻‍💻 <b>I'm currently learning [VueJs][vue].</b>
@@ -6,11 +6,12 @@ I'm Larra and I'm trying not to be too overwhelmed with these new tech.
 ## 🎀 About Me
 💗 Lazy wife  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
-🏠 Proudly from 🇵🇭 but living now in 🇺🇸  
+🏠 Proudly from 🇵🇭 but now living in 🇺🇸  
 
 ## 💖 Personal Projects
-💠  An NGO web app for binational couples and families  
-💠  [Modernized GovPH apps][govph]
+- [ ] 🖥️ An NGO web app for binational couples and families
+- [ ] 🆕 [Modernized GovPH apps][govph]
+- [ ] 📄 K1 Filing Guide
 
 ## 💻 Tech
 ![HTML5](https://img.shields.io/badge/%20-html5-orange?logo=css3&style=for-the-badge&color=E34F26&logoColor=ffffff) 
