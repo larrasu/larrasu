@@ -4,7 +4,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 👩🏻‍💻 <b>Currently learning [VueJS][vue].</b>
 
 ## 🎀 About Me
-💗 Lazy
+💗 Lazy  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
 🏠 Proudly from 🇵🇭 but now living in 🇺🇸  
 👑 Self-proclaimed web developer  
