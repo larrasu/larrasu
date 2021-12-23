@@ -32,7 +32,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 ![Vercel](https://img.shields.io/badge/%20-vercel-green?logo=vercel&style=for-the-badge&color=000000&logoColor=ffffff) 
 ![Netlify](https://img.shields.io/badge/%20-netlify-green?logo=netlify&style=for-the-badge&color=00C7B7&logoColor=ffffff) 
 
-Made with ❤️
+Made with ❤️ by [Larra](https://github.com/larrasu/).
 
 [vue]: https://v3.vuejs.org/
 [govph]: https://github.com/larrasu/GovPH-Modernized/
