@@ -1,7 +1,7 @@
 # Hi there! 👋
 I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
-👩🏻‍💻 <b>Currently learning [VueJS][vue].</b>
+👩🏻‍💻 <b>Currently learning [VueJS][vue] and [Nuxt 3][nuxt3].</b>
 
 ## 🎀 About Me
 💗 Lazy  
@@ -12,8 +12,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
 ## 💖 Personal Projects
 - [ ] 🖥️ An NGO web app for binational couples and families
-- [ ] 🆕 [Modernized GovPH apps][govph]
-- [ ] 📄 K1 Visa Filing Guide
+- [ ] Pets Allowed - a web app search engine for pet owners
 
 ## 💻 Tech
 ![HTML5](https://img.shields.io/badge/%20-html5-orange?logo=css3&style=for-the-badge&color=E34F26&logoColor=ffffff) 
@@ -35,4 +34,4 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 Made with ❤️ by [Larra](https://github.com/larrasu/).
 
 [vue]: https://v3.vuejs.org/
-[govph]: https://github.com/larrasu/GovPH-Modernized/
+[nuxt3]: https://v3.nuxtjs.org/
