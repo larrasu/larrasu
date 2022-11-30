@@ -12,7 +12,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
 ## 💖 Personal Projects
 - [ ] 🖥️ An NGO web app for binational couples and families
-- [ ] Pets Allowed - a web app search engine for pet owners
+- [ ] Pet-Friendly PH - a web app search engine for pet owners in the Philippines
 
 ## 💻 Tech
 ![HTML5](https://img.shields.io/badge/%20-html5-orange?logo=css3&style=for-the-badge&color=E34F26&logoColor=ffffff) 
