@@ -4,9 +4,8 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 👩🏻‍💻 <b>Currently learning [VueJS][vue] and [Nuxt 3][nuxt3].</b>
 
 ## 🎀 About Me
-💗 Lazy  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
-🏠 Proudly from 🇵🇭 but now living in 🇺🇸  
+🏠 🇺🇸 based but born and raised in 🇵🇭
 👑 Self-proclaimed web developer  
 🎤 Professional bathroom singer
 
