@@ -11,7 +11,6 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 🎤 Professional bathroom singer
 
 ## 💖 Personal Projects
-- [ ] 🖥️ An NGO web app for binational couples and families
 - [ ] Pet-Friendly PH - a web app search engine for pet owners in the Philippines
 
 ## 💻 Tech
