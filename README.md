@@ -5,7 +5,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
 ## 🎀 About Me
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
-🏠 🇺🇸 based but born and raised in 🇵🇭
+🏠 🇺🇸 based but born and raised in 🇵🇭 
 👑 Self-proclaimed web developer  
 🎤 Professional bathroom singer
 
