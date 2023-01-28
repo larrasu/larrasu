@@ -12,6 +12,11 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 ## 💖 Personal Projects
 - [ ] Pet-Friendly PH - a web app search engine for pet owners in the Philippines
 
+## 🏆 Dev Challenges
+- [ ] Frontend Mentor Challenges
+- [ ] DevChallenges
+- [ ] Codewell
+
 ## 💻 Tech
 ![HTML5](https://img.shields.io/badge/%20-html5-orange?logo=css3&style=for-the-badge&color=E34F26&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/%20-css3-blue?logo=html5&style=for-the-badge&color=1572B6&logoColor=ffffff) 
