@@ -10,7 +10,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 🎤 Professional bathroom singer
 
 ## 💖 Personal Projects
-- [ ] Pet-Friendly PH - a web app search engine for pet owners in the Philippines
+- [ ] Petsu - a pet-friendly directory in the Philippines.
 
 ## 🏆 Coding Challenges
 - [x] [Frontend Mentor](https://github.com/larrasu/frontend-mentor)
