@@ -36,5 +36,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
 Made with ❤️ by [Larra](https://github.com/larrasu/).
 
+![](https://komarev.com/ghpvc/?username=larrasu&color=f472b6&style=for-the-badge)
+
 [vue]: https://v3.vuejs.org/
 [nuxt3]: https://v3.nuxtjs.org/
