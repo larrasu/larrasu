@@ -5,7 +5,7 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 
 ## 🎀 About Me
 👑 Self-proclaimed web developer  
-🏠 :us: based but raised and born in :philippines:  
+🏠 :us: based but born and raised in :philippines:  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
 🎤 Professional bathroom singer
 
