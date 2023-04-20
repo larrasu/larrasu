@@ -1,13 +1,16 @@
 # Hi there! 👋
-I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
+I'm <b>Larra</b>, a self-taught frontend developer, and I'm trying not to be too overwhelmed with all the tech.
 
-👩🏻‍💻 <b>Currently learning [VueJS][vue] and [Nuxt 3][nuxt3].</b>
+👩🏻‍💻 <b>Currently learning [Vue][vue] and [Nuxt 3][nuxt3].</b>
 
 ## 🎀 About Me
-👑 Self-proclaimed web developer  
+👑 Self-proclaimed frontend developer  
 🏠 :us: based but born and raised in :philippines:  
 🐾 Mom of 3 furbabies 🐻‍❄️🐻🧸  
 🎤 Professional bathroom singer
+
+## 🌟 Github Stats
+![Larra's GitHub Stats](https://larrasu-github-stats.vercel.app/api?username=larrasu&show_icons=true&theme=transparent)
 
 ## 💖 Personal Projects
 - [ ] Petsu - a pet-friendly directory mobile app for pet owners in the Philippines.
@@ -23,8 +26,10 @@ I'm <b>Larra</b> and I'm trying not to be too overwhelmed with all the tech.
 ![JavaScript](https://img.shields.io/badge/%20-javascript-yellow?logo=javascript&style=for-the-badge&color=F7DF1E&logoColor=000000) 
 ![TypeScript](https://img.shields.io/badge/%20-typescript-blue?logo=typescript&style=for-the-badge&color=3178C6&logoColor=ffffff) 
 ![Tailwind CSS](https://img.shields.io/badge/%20-tailwindcss-blue?logo=tailwindcss&style=for-the-badge&color=06B6D4&logoColor=ffffff) 
-![VueJS](https://img.shields.io/badge/%20-vue.js-green?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=ffffff) 
-![NuxtJS](https://img.shields.io/badge/%20-nuxt.js-green?logo=nuxt.js&style=for-the-badge&color=00DC82&logoColor=ffffff) 
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/%20-nuxt-black?logo=nuxt.js&style=for-the-badge&color=00DC82&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🔧 Tools
 ![VS Code](https://img.shields.io/badge/%20-vscode-blue?logo=visualstudiocode&style=for-the-badge&color=007ACC&logoColor=ffffff) 
@@ -38,5 +43,5 @@ Made with ❤️ by [Larra](https://github.com/larrasu/).
 
 ![](https://komarev.com/ghpvc/?username=larrasu&color=f472b6&style=for-the-badge)
 
-[vue]: https://v3.vuejs.org/
-[nuxt3]: https://v3.nuxtjs.org/
+[vue]: https://vuejs.org/
+[nuxt3]: https://nuxt.com/
