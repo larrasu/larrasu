@@ -37,7 +37,7 @@ I'm <b>Larra</b>, a self-taught frontend developer, and I'm trying not to be too
 ![TypeScript](https://img.shields.io/badge/%20-typescript-blue?logo=typescript&style=for-the-badge&color=3178C6&logoColor=ffffff) 
 ![Tailwind CSS](https://img.shields.io/badge/%20-tailwindcss-blue?logo=tailwindcss&style=for-the-badge&color=06B6D4&logoColor=ffffff) 
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/%20-nuxt-black?logo=nuxt.js&style=for-the-badge&color=00DC82&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-black?logo=nuxt.js&style=for-the-badge&color=black&logoColor=00DC82)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
