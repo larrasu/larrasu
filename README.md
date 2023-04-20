@@ -10,7 +10,17 @@ I'm <b>Larra</b>, a self-taught frontend developer, and I'm trying not to be too
 🎤 Professional bathroom singer
 
 ## 🌟 Github Stats
-![Larra's GitHub Stats](https://larrasu-github-stats.vercel.app/api?username=larrasu&show_icons=true&theme=transparent)
+<picture>
+<source 
+  srcset="https://larrasu-github-stats.vercel.app/api?username=larrasu&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&title_color=f472b6&icon_color=fde047"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://larrasu-github-stats.vercel.app/api?username=larrasu&show_icons=true&count_private=true&hide_border=true&title_color=f472b6&icon_color=fde047"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## 💖 Personal Projects
 - [ ] Petsu - a pet-friendly directory mobile app for pet owners in the Philippines.
