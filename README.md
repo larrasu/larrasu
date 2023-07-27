@@ -23,7 +23,7 @@ I'm <b>Larra</b>, a self-taught frontend developer, and I'm trying not to be too
 </picture>
 
 ## 💖 Personal Projects
-- [ ] Petsu - a pet-friendly directory mobile app for pet owners in the Philippines.
+- [ ] Petsu - a pet-friendly directory web app for pet owners in the Philippines.
 
 ## 🏆 Coding Challenges
 - [x] [Frontend Mentor](https://github.com/larrasu/frontend-mentor)
