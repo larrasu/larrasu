@@ -22,6 +22,9 @@ I'm <b>Larra</b>, a self-taught frontend developer, and I'm trying not to be too
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+<!-- ## Nuxter Stats -->
+<!-- [![larrasu Nuxter profile](https://nuxters.nuxt.com/card/larrasu/og.png)](https://nuxters.nuxt.com/larrasu) -->
+
 ## 💖 Personal Projects
 - [ ] Petsu - a pet-friendly directory web app for pet owners in the Philippines.
 
