@@ -1,3 +1,3 @@
 <pre align="center">
-nuxter - 🐶 furmom - bloom 🌸
+nuxter - 🐶 furmom
 </pre>
